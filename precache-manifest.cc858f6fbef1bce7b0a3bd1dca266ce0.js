@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4d37d097e7f1ad1274b3da66f8ce2b99",
+    "revision": "abf0364e89ee59342025a7541cb371c5",
     "url": "/index.html"
   },
   {
-    "revision": "94afec01231b127c08b4",
+    "revision": "897e0c2fbf03d5aacf25",
     "url": "/static/css/main.1f7eae1d.chunk.css"
   },
   {
-    "revision": "4a2248c531212a083ee8",
-    "url": "/static/js/2.89f4e987.chunk.js"
+    "revision": "0b639f13309ee248a18c",
+    "url": "/static/js/2.5447b739.chunk.js"
   },
   {
-    "revision": "94afec01231b127c08b4",
-    "url": "/static/js/main.f4cd1c4b.chunk.js"
+    "revision": "897e0c2fbf03d5aacf25",
+    "url": "/static/js/main.67728337.chunk.js"
   },
   {
     "revision": "3671e6591916fc8916f2",
@@ -80,8 +80,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/cloud_infrastructure.cacbc42b.svg"
   },
   {
+    "revision": "c879067805a7efdd99e34a8d1bb4ed4b",
+    "url": "/static/media/comptia_a_logo.c8790678.png"
+  },
+  {
+    "revision": "5546acb893b45d44742c0cf17b1117d3",
+    "url": "/static/media/comptia_sec_logo.5546acb8.jpeg"
+  },
+  {
     "revision": "5f915405511f649dad433a6db9adbff4",
     "url": "/static/media/contactMail.5f915405.png"
+  },
+  {
+    "revision": "9f225e7a3d3b78b6cde4a8694013ac6c",
+    "url": "/static/media/cybersec_logo.9f225e7a.jpeg"
   },
   {
     "revision": "ebf35d7f33ebbd4a4c6cff7e66e21fdb",
@@ -186,6 +198,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a6addc3fb6605480614b992ede8cd434",
     "url": "/static/media/googleAssistant.a6addc3f.svg"
+  },
+  {
+    "revision": "1c6f8b199a7cb4e0646019a54673daf4",
+    "url": "/static/media/hackbright_logo.1c6f8b19.png"
   },
   {
     "revision": "872a84b04f204931e5e787a95960f4d3",

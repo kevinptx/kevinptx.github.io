@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.1f7eae1d.chunk.css",
-    "main.js": "/static/js/main.f4cd1c4b.chunk.js",
-    "main.js.map": "/static/js/main.f4cd1c4b.chunk.js.map",
+    "main.js": "/static/js/main.67728337.chunk.js",
+    "main.js.map": "/static/js/main.67728337.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fb9e157e.js",
     "runtime-main.js.map": "/static/js/runtime-main.fb9e157e.js.map",
-    "static/js/2.89f4e987.chunk.js": "/static/js/2.89f4e987.chunk.js",
-    "static/js/2.89f4e987.chunk.js.map": "/static/js/2.89f4e987.chunk.js.map",
+    "static/js/2.5447b739.chunk.js": "/static/js/2.5447b739.chunk.js",
+    "static/js/2.5447b739.chunk.js.map": "/static/js/2.5447b739.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5450a808cd4871ebca56bdc2aa04b8f4.js": "/precache-manifest.5450a808cd4871ebca56bdc2aa04b8f4.js",
+    "precache-manifest.cc858f6fbef1bce7b0a3bd1dca266ce0.js": "/precache-manifest.cc858f6fbef1bce7b0a3bd1dca266ce0.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.1f7eae1d.chunk.css.map": "/static/css/main.1f7eae1d.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
@@ -19,7 +19,10 @@
     "static/media/animated_logo.svg": "/static/media/animated_logo.dcd6dee2.svg",
     "static/media/blogs_image.svg": "/static/media/blogs_image.058eca4c.svg",
     "static/media/cloud_infrastructure.svg": "/static/media/cloud_infrastructure.cacbc42b.svg",
+    "static/media/comptia_a_logo.png": "/static/media/comptia_a_logo.c8790678.png",
+    "static/media/comptia_sec_logo.jpeg": "/static/media/comptia_sec_logo.5546acb8.jpeg",
     "static/media/contactMail.png": "/static/media/contactMail.5f915405.png",
+    "static/media/cybersec_logo.jpeg": "/static/media/cybersec_logo.9f225e7a.jpeg",
     "static/media/data_science.svg": "/static/media/data_science.ebf35d7f.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.3e23ca14.svg",
     "static/media/education.svg": "/static/media/education.3bab7a9d.svg",
@@ -32,6 +35,7 @@
     "static/media/github_logo.png": "/static/media/github_logo.6eeb2e81.png",
     "static/media/googleAssistant.jpg": "/static/media/googleAssistant.0c8a4c11.jpg",
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.a6addc3f.svg",
+    "static/media/hackbright_logo.png": "/static/media/hackbright_logo.1c6f8b19.png",
     "static/media/hcc-logo-black.png": "/static/media/hcc-logo-black.872a84b0.png",
     "static/media/infosys_logo.png": "/static/media/infosys_logo.651b8ebb.png",
     "static/media/jsFramework.svg": "/static/media/jsFramework.5b4a6449.svg",
@@ -51,8 +55,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fb9e157e.js",
-    "static/js/2.89f4e987.chunk.js",
+    "static/js/2.5447b739.chunk.js",
     "static/css/main.1f7eae1d.chunk.css",
-    "static/js/main.f4cd1c4b.chunk.js"
+    "static/js/main.67728337.chunk.js"
   ]
 }
